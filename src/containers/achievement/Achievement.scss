@@ -6,11 +6,13 @@
   line-height: normal;
   margin: 0px;
 }
+
 .achievement-subtitle {
   text-transform: uppercase;
   margin: 0px;
   margin-bottom: 50px;
 }
+
 .subTitle {
   color: $subTitle;
 }
@@ -21,14 +23,40 @@
     font-size: 40px;
   }
 }
+
 @media (max-width: 768px) {
   .achievement-heading {
     font-size: 30px;
     text-align: center;
   }
+  
   .achievement-subtitle {
     font-size: 16px;
     line-height: normal;
     text-align: center;
   }
+  
+  .achievement-cards-div {
+    display: flex;
+    flex-direction: column; /* Ajusta las tarjetas en una columna */
+    align-items: center; /* Centra las tarjetas */
+  }
+
+  .achievement-card {
+    width: 90%; /* Ajusta el ancho de las tarjetas para móviles */
+    margin-bottom: 20px; /* Espacio entre tarjetas */
+  }
+}
+
+/* Estilos para el contenedor de tarjetas */
+.achievement-cards-div {
+  display: flex;
+  flex-wrap: wrap; /* Permite que las tarjetas se envuelvan en múltiples líneas */
+  justify-content: center; /* Centra las tarjetas horizontalmente */
+  gap: 20px; /* Espacio entre las tarjetas */
+}
+
+.achievement-card {
+  width: 30%; /* Ajusta el ancho de las tarjetas para pantallas grandes */
+  min-width: 280px; /* Asegura un ancho mínimo para las tarjetas */
 }
