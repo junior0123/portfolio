@@ -426,107 +426,107 @@ const achievementSection = {
       ]
     },
     
-    // {
-    //   title: "Curso de Patrones de Diseño con JAVA",
-    //   subtitle:
-    //     "Código Facilito",
-    //   image: require("./assets/images/codigofacilito.png"),
-    //   //imageAlt: "Google Code-In Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://codigofacilito.com/certificates/26a3fbac-b12e-448c-b285-ace3b986e18b"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Curso profesional de flutter",
-    //   subtitle:
-    //     "Código Facilito",
-    //   image: require("./assets/images/codigofacilito.png"),
-    //   //imageAlt: "Google Code-In Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://codigofacilito.com/certificates/d4f42e92-88dd-45e4-b76f-e79cf03a81ff"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Todo sobre Notion. Organiza tu trabajo y se mas Productivo",
-    //   subtitle:
-    //     "Udemy",
-    //   image: require("./assets/images/udemy.webp"),
-    //   imageAlt: "Google Assistant Action Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://www.udemy.com/certificate/UC-b8978bc5-4477-4325-9de2-b91b566e6b72/"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Design a mobile app interface with Moqups",
-    //   subtitle:
-    //     "Coursera",
-    //   image: require("./assets/images/coursera.png"),
-    //   imageAlt: "Google Assistant Action Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://coursera.org/verify/AC9BRQN4L222"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Software Automation Testing Specialization",
-    //   subtitle:
-    //     "Jala University",
-    //   image: require("./assets/images/jala.png"),
-    //   imageAlt: "Google Assistant Action Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://certificates.cosmic-latte.com/verify/HgxwPzhXBi9Gcixvd"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "SQL: Creacion de Bases de Datos (De cero a profesional)",
-    //   subtitle:
-    //     "Udemy",
-    //   image: require("./assets/images/udemy.webp"),
-    //   imageAlt: "Google Assistant Action Logo",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://www.udemy.com/certificate/UC-84877de4-c0bc-4f4d-a534-768b3a6923df/"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Python para no matemáticos: De 0 hasta reconocimiento facial",
-    //   subtitle: "Udemy",
-    //   image: require("./assets/images/udemy.webp"),
-    //   imageAlt: "PWA Logo",
-    //   footerLink: [
+    {
+      title: "Curso de Patrones de Diseño con JAVA",
+      subtitle:
+        "Código Facilito",
+      image: require("./assets/images/codigofacilito.png"),
+      //imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://codigofacilito.com/certificates/26a3fbac-b12e-448c-b285-ace3b986e18b"
+        }
+      ]
+    },
+    {
+      title: "Curso profesional de flutter",
+      subtitle:
+        "Código Facilito",
+      image: require("./assets/images/codigofacilito.png"),
+      //imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://codigofacilito.com/certificates/d4f42e92-88dd-45e4-b76f-e79cf03a81ff"
+        }
+      ]
+    },
+    {
+      title: "Todo sobre Notion. Organiza tu trabajo y se mas Productivo",
+      subtitle:
+        "Udemy",
+      image: require("./assets/images/udemy.webp"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-b8978bc5-4477-4325-9de2-b91b566e6b72/"
+        }
+      ]
+    },
+    {
+      title: "Design a mobile app interface with Moqups",
+      subtitle:
+        "Coursera",
+      image: require("./assets/images/coursera.png"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://coursera.org/verify/AC9BRQN4L222"
+        }
+      ]
+    },
+    {
+      title: "Software Automation Testing Specialization",
+      subtitle:
+        "Jala University",
+      image: require("./assets/images/jala.png"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://certificates.cosmic-latte.com/verify/HgxwPzhXBi9Gcixvd"
+        }
+      ]
+    },
+    {
+      title: "SQL: Creacion de Bases de Datos (De cero a profesional)",
+      subtitle:
+        "Udemy",
+      image: require("./assets/images/udemy.webp"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-84877de4-c0bc-4f4d-a534-768b3a6923df/"
+        }
+      ]
+    },
+    {
+      title: "Python para no matemáticos: De 0 hasta reconocimiento facial",
+      subtitle: "Udemy",
+      image: require("./assets/images/udemy.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
 
-    //     {
-    //       name: "Certification",
-    //       url: "https://www.udemy.com/certificate/UC-08f09ff5-a2a0-4db6-8fe6-0d77b87bcd0a/"
-    //     }
-    //   ]
-    // },
-    // {
-    //   title: "Introduction to the Internet of things and Embedded Systems",
-    //   subtitle: "University of California, Irvine Division of Continuing Education I Coursera",
-    //   image: require("./assets/images/coursera.png"),
-    //   imageAlt: "PWA Logo",
-    //   footerLink: [
-    //     { name: "Certification", url: "https://coursera.org/verify/HVABLM4B2ABJ" },
+        {
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-08f09ff5-a2a0-4db6-8fe6-0d77b87bcd0a/"
+        }
+      ]
+    },
+    {
+      title: "Introduction to the Internet of things and Embedded Systems",
+      subtitle: "University of California, Irvine Division of Continuing Education I Coursera",
+      image: require("./assets/images/coursera.png"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        { name: "Certification", url: "https://coursera.org/verify/HVABLM4B2ABJ" },
 
-    //   ]
-    // }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
