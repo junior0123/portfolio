@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.56fe076d.css",
-    "main.js": "/portfolio/static/js/main.dc390968.js",
+    "main.js": "/portfolio/static/js/main.f2de2697.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/portfolio/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -47,7 +47,7 @@
     "static/media/flutter.svg": "/portfolio/static/media/flutter.bebc042feb9fa51b8599be5dbc558877.svg",
     "static/media/gitlab.svg": "/portfolio/static/media/gitlab.cdc568d102c37f85df387ab253f303a7.svg",
     "main.56fe076d.css.map": "/portfolio/static/css/main.56fe076d.css.map",
-    "main.dc390968.js.map": "/portfolio/static/js/main.dc390968.js.map",
+    "main.f2de2697.js.map": "/portfolio/static/js/main.f2de2697.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/portfolio/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.56fe076d.css",
-    "static/js/main.dc390968.js"
+    "static/js/main.f2de2697.js"
   ]
 }
