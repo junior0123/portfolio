@@ -17,7 +17,7 @@
   color: $subTitle;
 }
 
-/* Media Query */
+/* Media Queries para Responsividad */
 @media (max-width: 1380px) {
   .achievement-heading {
     font-size: 40px;
@@ -40,6 +40,7 @@
     display: flex;
     flex-direction: column; /* Ajusta las tarjetas en una columna */
     align-items: center; /* Centra las tarjetas */
+    width: 100%;
   }
 
   .achievement-card {
@@ -59,4 +60,5 @@
 .achievement-card {
   width: 30%; /* Ajusta el ancho de las tarjetas para pantallas grandes */
   min-width: 280px; /* Asegura un ancho mínimo para las tarjetas */
+  box-sizing: border-box;
 }

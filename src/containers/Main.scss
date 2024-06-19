@@ -1,5 +1,15 @@
 @import "../_globalColor";
 
+.main {
+  width: 100%;
+  height: auto; /* Asegura que la altura se ajuste al contenido */
+}
+
+#achievements {
+  width: 100%;
+  height: auto; /* Asegura que la altura se ajuste al contenido */
+}
+
 .dark-mode {
   background-color: $darkBackground;
   color: white;
