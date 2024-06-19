@@ -49,6 +49,21 @@
   }
 }
 
+@media (max-width: 480px) {
+  .achievement-heading {
+    font-size: 24px;
+  }
+
+  .achievement-subtitle {
+    font-size: 14px;
+  }
+
+  .achievement-card {
+    width: 100%; /* Ancho completo para pantallas muy pequeñas */
+    margin-bottom: 15px;
+  }
+}
+
 /* Estilos para el contenedor de tarjetas */
 .achievement-cards-div {
   display: flex;
@@ -61,4 +76,11 @@
   width: 30%; /* Ajusta el ancho de las tarjetas para pantallas grandes */
   min-width: 280px; /* Asegura un ancho mínimo para las tarjetas */
   box-sizing: border-box;
+}
+
+/* Estilos para el contenedor principal */
+.main {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
 }
