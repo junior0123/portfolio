@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.56fe076d.css",
-    "main.js": "/portfolio/static/js/main.231597f8.js",
+    "main.js": "/portfolio/static/js/main.dc390968.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/portfolio/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -13,7 +13,6 @@
     "static/media/project1.jpeg": "/portfolio/static/media/project1.e7fa663dff4ed2f0f838.jpeg",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/codigofacilito.png": "/portfolio/static/media/codigofacilito.3ac3349948bda313f352.png",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/maven.svg": "/portfolio/static/media/maven.db82b6d6a486d57e0fb7d89f6b68d3fa.svg",
@@ -28,7 +27,6 @@
     "static/media/mysql.svg": "/portfolio/static/media/mysql.159e92e0e1de4a480eb38696dbac8c00.svg",
     "static/media/resume.pdf": "/portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/mariadb.svg": "/portfolio/static/media/mariadb.68c17e0ce44cc9d33be9c69168cda8de.svg",
-    "static/media/udemy.webp": "/portfolio/static/media/udemy.c5382fceb766623fcdd0.webp",
     "static/media/pytest.svg": "/portfolio/static/media/pytest.5bb7aec4c11bb436f600f04f52181056.svg",
     "static/media/playwright.svg": "/portfolio/static/media/playwright.106d2275bcec28a94009ae435101a916.svg",
     "static/media/selenium.svg": "/portfolio/static/media/selenium.237667f10e513db4dc4a558452f8015d.svg",
@@ -49,7 +47,7 @@
     "static/media/flutter.svg": "/portfolio/static/media/flutter.bebc042feb9fa51b8599be5dbc558877.svg",
     "static/media/gitlab.svg": "/portfolio/static/media/gitlab.cdc568d102c37f85df387ab253f303a7.svg",
     "main.56fe076d.css.map": "/portfolio/static/css/main.56fe076d.css.map",
-    "main.231597f8.js.map": "/portfolio/static/js/main.231597f8.js.map",
+    "main.dc390968.js.map": "/portfolio/static/js/main.dc390968.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/portfolio/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -57,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.56fe076d.css",
-    "static/js/main.231597f8.js"
+    "static/js/main.dc390968.js"
   ]
 }
