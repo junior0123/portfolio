@@ -356,8 +356,8 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Courses and Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  // subtitle:
+  //   "",
 
   achievementsCards: [
     {
@@ -365,7 +365,7 @@ const achievementSection = {
       subtitle:
         "SCRUMstudy - Accreditation Body for Scrum and Agile",
       image: require("./assets/images/scrumstudy.png"),
-      imageAlt: "Google Code-In Logo",
+     // imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -378,7 +378,7 @@ const achievementSection = {
       subtitle:
         "6sigmastudy - Global Accreditation Body for Six Sigma Certifications",
       image: require("./assets/images/6sigma.png"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -391,7 +391,7 @@ const achievementSection = {
       subtitle:
         "Udemy",
       image: require("./assets/images/udemy.webp"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -404,7 +404,7 @@ const achievementSection = {
       subtitle:
         "Código Facilito",
       image: require("./assets/images/codigofacilito.png"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -417,7 +417,7 @@ const achievementSection = {
       subtitle:
         "Código Facilito",
       image: require("./assets/images/codigofacilito.png"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -430,7 +430,7 @@ const achievementSection = {
       subtitle:
         "Código Facilito",
       image: require("./assets/images/codigofacilito.png"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
@@ -443,7 +443,7 @@ const achievementSection = {
       subtitle:
         "Código Facilito",
       image: require("./assets/images/codigofacilito.png"),
-      imageAlt: "Google Code-In Logo",
+      //imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
