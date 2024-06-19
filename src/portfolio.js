@@ -518,16 +518,16 @@ const achievementSection = {
         }
       ]
     },
-    // {
-    //   title: "Introduction to the Internet of things and Embedded Systems",
-    //   subtitle: "University of California, Irvine Division of Continuing Education I Coursera",
-    //   image: require("./assets/images/coursera.png"),
-    //   imageAlt: "PWA Logo",
-    //   footerLink: [
-    //     { name: "Certification", url: "https://coursera.org/verify/HVABLM4B2ABJ" },
+    {
+      title: "Introduction to the Internet of things and Embedded Systems",
+      subtitle: "University of California, Irvine Division of Continuing Education I Coursera",
+      image: require("./assets/images/coursera.png"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        { name: "Certification", url: "https://coursera.org/verify/HVABLM4B2ABJ" },
 
-    //   ]
-    // }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
