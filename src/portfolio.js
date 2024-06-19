@@ -228,7 +228,7 @@ const educationInfo = {
         "Developed expertise in creating test automation scripts using Java, Selenium, and REST Assured.",
         "Conducted API and UI testing, applying knowledge of web and API testing.",
         "Demonstrated familiarity with testing methodologies and software quality best practices. ",
-        "Utilized my skills to analyze and debug issues in test code and collaborate with the development team for resolution.", 
+        "Utilized my skills to analyze and debug issues in test code and collaborate with the development team for resolution.",
         "Showcased effective communication skills and the ability to work in a team environment ",
       ]
     },
@@ -265,7 +265,7 @@ const techStack = {
       Stack: "Programming/Scripting",
       progressPercentage: "80%"
     }
-    
+
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -306,7 +306,7 @@ const workExperiences = {
         "Provided comprehensive support to the professor in preparing teaching materials, grading assignments, and managing the classroom, contributing to the course's success.",
       ]
     },
-    
+
   ]
 };
 
@@ -509,7 +509,7 @@ const achievementSection = {
       image: require("./assets/images/udemy.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-       
+
         {
           name: "Certification",
           url: "https://www.udemy.com/certificate/UC-08f09ff5-a2a0-4db6-8fe6-0d77b87bcd0a/"
@@ -523,7 +523,7 @@ const achievementSection = {
       imageAlt: "PWA Logo",
       footerLink: [
         { name: "Certification", url: "https://coursera.org/verify/HVABLM4B2ABJ" },
-        
+
       ]
     }
   ],
